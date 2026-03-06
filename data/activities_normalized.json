@@ -38491,5 +38491,31 @@
     "start_date_local": "2026-02-27T09:06:54Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 2005.3,
+    "elevation_gain": 79.0,
+    "id": "17619377399",
+    "moving_time": 1564.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-06T12:30:46Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-06",
+    "distance": 9172.6,
+    "elevation_gain": 307.0,
+    "id": "17621122357",
+    "moving_time": 1829.0,
+    "name": "Zwift - Oh Hill No in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-06T18:49:10Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
