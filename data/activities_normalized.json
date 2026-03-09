@@ -38556,5 +38556,18 @@
     "start_date_local": "2026-03-08T08:30:06Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 2042.8,
+    "elevation_gain": 62.0,
+    "id": "17654961980",
+    "moving_time": 1768.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-09T12:05:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
