@@ -38610,6 +38610,19 @@
     "year": 2026
   },
   {
+    "date": "2026-03-10",
+    "distance": 18486.0,
+    "elevation_gain": 650.3,
+    "id": "17713859416",
+    "moving_time": 3217.0,
+    "name": "20260310-031551",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-03-10T16:16:19Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
     "date": "2026-03-12",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -38620,6 +38633,45 @@
     "raw_type": "Workout",
     "start_date_local": "2026-03-12T13:56:22Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 34100.5,
+    "elevation_gain": 64.6,
+    "id": "17714711286",
+    "moving_time": 3928.0,
+    "name": "on-call",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T15:12:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 334.2,
+    "elevation_gain": 66.0,
+    "id": "17714917487",
+    "moving_time": 293.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-14T19:12:50Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 1671.2,
+    "elevation_gain": 57.0,
+    "id": "17715030196",
+    "moving_time": 1520.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-14T19:18:55Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
