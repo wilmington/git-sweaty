@@ -38673,5 +38673,18 @@
     "start_date_local": "2026-03-14T19:18:55Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17723601827",
+    "moving_time": 1008.0,
+    "name": "Low Back Recovery",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-15T08:47:13Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
