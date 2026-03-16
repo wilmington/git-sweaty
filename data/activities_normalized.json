@@ -38686,5 +38686,31 @@
     "start_date_local": "2026-03-15T08:47:13Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 2061.5,
+    "elevation_gain": 69.0,
+    "id": "17737535036",
+    "moving_time": 1864.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-16T12:01:10Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 24598.8,
+    "elevation_gain": 141.4,
+    "id": "17738691981",
+    "moving_time": 3621.0,
+    "name": "On-call again.",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T18:03:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
