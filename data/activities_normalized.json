@@ -38712,5 +38712,18 @@
     "start_date_local": "2026-03-16T18:03:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 2027.3,
+    "elevation_gain": 89.0,
+    "id": "17748338689",
+    "moving_time": 1669.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-17T12:20:16Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
