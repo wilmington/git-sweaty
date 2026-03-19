@@ -38751,5 +38751,31 @@
     "start_date_local": "2026-03-18T16:32:22Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 1015.1,
+    "elevation_gain": 61.0,
+    "id": "17770138665",
+    "moving_time": 620.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-19T07:17:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17774837207",
+    "moving_time": 574.0,
+    "name": "Low Back Recovery",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-19T17:30:26Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
