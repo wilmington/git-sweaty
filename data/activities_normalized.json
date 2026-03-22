@@ -38829,5 +38829,18 @@
     "start_date_local": "2026-03-21T14:11:06Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 33449.8,
+    "elevation_gain": 734.0,
+    "id": "17808804498",
+    "moving_time": 5843.0,
+    "name": "lost at mt vic.",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-03-22T09:45:49Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
