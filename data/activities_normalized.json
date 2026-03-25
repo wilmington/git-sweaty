@@ -38868,5 +38868,18 @@
     "start_date_local": "2026-03-23T16:37:10Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 28844.0,
+    "elevation_gain": 483.5,
+    "id": "17848156891",
+    "moving_time": 6418.0,
+    "name": "Cornerfornication",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-03-25T10:22:29Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
