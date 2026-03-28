@@ -38881,5 +38881,18 @@
     "start_date_local": "2026-03-25T10:22:29Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 34561.0,
+    "elevation_gain": 1127.5,
+    "id": "17883603384",
+    "moving_time": 7553.0,
+    "name": "Pointless exploration",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-03-28T14:36:36Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
