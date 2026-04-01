@@ -26945,6 +26945,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17917589980",
       "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 19,
+      "name": "indoor ride",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17934269059",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48191,11 +48200,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 574.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17934269059"
+          ],
+          "count": 1,
+          "distance": 22628.4,
+          "elevation_gain": 3.0,
+          "moving_time": 4349.0
         }
       }
     }
   },
-  "generated_at": "2026-03-31T16:05:49.262533+00:00",
+  "generated_at": "2026-04-01T16:06:40.406742+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

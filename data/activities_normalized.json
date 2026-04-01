@@ -38920,5 +38920,18 @@
     "start_date_local": "2026-03-31T09:36:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 22628.4,
+    "elevation_gain": 3.0,
+    "id": "17934269059",
+    "moving_time": 4349.0,
+    "name": "indoor ride",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T19:14:15Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
