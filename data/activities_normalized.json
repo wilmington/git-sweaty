@@ -38933,5 +38933,18 @@
     "start_date_local": "2026-04-01T19:14:15Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 30790.2,
+    "elevation_gain": 793.0,
+    "id": "17954668629",
+    "moving_time": 5712.0,
+    "name": "Morning E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-04-03T07:37:25Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
