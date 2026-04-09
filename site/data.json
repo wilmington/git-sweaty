@@ -27008,6 +27008,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18004729406",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 18,
+      "name": "GROUVY",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18037386882",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47933,6 +47942,15 @@
           "distance": 24598.8,
           "elevation_gain": 141.4,
           "moving_time": 3621.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18037386882"
+          ],
+          "count": 1,
+          "distance": 10705.7,
+          "elevation_gain": 654.0,
+          "moving_time": 3599.0
         }
       },
       "Walk": {
@@ -48321,7 +48339,7 @@
       }
     }
   },
-  "generated_at": "2026-04-08T16:14:48.716039+00:00",
+  "generated_at": "2026-04-09T16:17:54.477509+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
