@@ -27017,6 +27017,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18037386882",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 12,
+      "name": "Onkle",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18060437586",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47951,6 +47960,15 @@
           "distance": 10705.7,
           "elevation_gain": 654.0,
           "moving_time": 3599.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18060437586"
+          ],
+          "count": 1,
+          "distance": 38770.6,
+          "elevation_gain": 507.0,
+          "moving_time": 5682.0
         }
       },
       "Walk": {
@@ -48339,7 +48357,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:54:08.401101+00:00",
+  "generated_at": "2026-04-11T15:34:20.927700+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
