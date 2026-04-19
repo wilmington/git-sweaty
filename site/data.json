@@ -27080,6 +27080,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18152757689",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 9,
+      "name": "Weather-E",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18164536946",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47771,6 +47780,15 @@
           "distance": 34055.9,
           "elevation_gain": 808.0,
           "moving_time": 5621.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18164536946"
+          ],
+          "count": 1,
+          "distance": 28618.3,
+          "elevation_gain": 672.0,
+          "moving_time": 5381.0
         }
       },
       "MountainBikeRide": {
@@ -48465,7 +48483,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:37:20.966837+00:00",
+  "generated_at": "2026-04-19T15:37:34.126269+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
