@@ -39128,5 +39128,18 @@
     "start_date_local": "2026-04-19T09:28:06Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 9742.5,
+    "elevation_gain": 557.0,
+    "id": "18193315253",
+    "moving_time": 3929.0,
+    "name": "Indurs",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T17:24:22Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
