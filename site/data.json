@@ -27098,6 +27098,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18193315253",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18203142599",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 19,
+      "name": "Weird Wales",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18208604634",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48086,6 +48104,15 @@
           "distance": 9742.5,
           "elevation_gain": 557.0,
           "moving_time": 3929.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18208604634"
+          ],
+          "count": 1,
+          "distance": 18925.3,
+          "elevation_gain": 354.0,
+          "moving_time": 2999.0
         }
       },
       "Walk": {
@@ -48459,6 +48486,15 @@
           "distance": 2010.3,
           "elevation_gain": 52.4,
           "moving_time": 1679.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18203142599"
+          ],
+          "count": 1,
+          "distance": 1495.5,
+          "elevation_gain": 19.9,
+          "moving_time": 1221.0
         }
       },
       "Workout": {
@@ -48501,7 +48537,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:10:32.272903+00:00",
+  "generated_at": "2026-04-22T16:08:59.693339+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

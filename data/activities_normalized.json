@@ -39141,5 +39141,31 @@
     "start_date_local": "2026-04-21T17:24:22Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1495.5,
+    "elevation_gain": 19.9,
+    "id": "18203142599",
+    "moving_time": 1221.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-22T07:15:33Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 18925.3,
+    "elevation_gain": 354.0,
+    "id": "18208604634",
+    "moving_time": 2999.0,
+    "name": "Weird Wales",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-22T19:48:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
