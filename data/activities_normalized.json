@@ -39219,5 +39219,44 @@
     "start_date_local": "2026-04-26T13:58:03Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 29920.9,
+    "elevation_gain": 795.0,
+    "id": "18272495884",
+    "moving_time": 6141.0,
+    "name": "Morning E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-04-27T07:59:18Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 1068.4,
+    "elevation_gain": 2.0,
+    "id": "18273894458",
+    "moving_time": 1635.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-27T15:14:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 2112.6,
+    "elevation_gain": 52.0,
+    "id": "18274291775",
+    "moving_time": 1938.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-27T16:55:52Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
