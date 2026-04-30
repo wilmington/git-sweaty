@@ -39284,5 +39284,18 @@
     "start_date_local": "2026-04-28T18:23:58Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 20392.4,
+    "elevation_gain": 702.0,
+    "id": "18314099637",
+    "moving_time": 3435.0,
+    "name": "Afternoon E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-04-30T13:06:50Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]

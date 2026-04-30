@@ -27197,6 +27197,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/18288349052",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 13,
+      "name": "Afternoon E-Bike Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18314099637",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47934,6 +47943,15 @@
           "distance": 17892.7,
           "elevation_gain": 637.0,
           "moving_time": 3607.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18314099637"
+          ],
+          "count": 1,
+          "distance": 20392.4,
+          "elevation_gain": 702.0,
+          "moving_time": 3435.0
         }
       },
       "MountainBikeRide": {
@@ -48683,7 +48701,7 @@
       }
     }
   },
-  "generated_at": "2026-04-29T16:27:26.614310+00:00",
+  "generated_at": "2026-04-30T16:19:10.818671+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
