@@ -39310,5 +39310,18 @@
     "start_date_local": "2026-05-02T14:04:27Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 37360.0,
+    "elevation_gain": 1055.1,
+    "id": "18353559996",
+    "moving_time": 5828.0,
+    "name": "20260503-002154",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-03T12:22:08Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
