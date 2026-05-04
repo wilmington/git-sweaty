@@ -39323,5 +39323,31 @@
     "start_date_local": "2026-05-03T12:22:08Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 2187.2,
+    "elevation_gain": 71.0,
+    "id": "18366718473",
+    "moving_time": 2171.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-04T12:03:03Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-04",
+    "distance": 35002.9,
+    "elevation_gain": 794.0,
+    "id": "18368515339",
+    "moving_time": 6175.0,
+    "name": "Afternoon E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-04T17:55:34Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
