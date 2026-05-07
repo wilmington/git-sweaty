@@ -27260,6 +27260,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18382162179",
       "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 18,
+      "name": "Oncall",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18408869952",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48339,6 +48348,15 @@
           "distance": 27687.5,
           "elevation_gain": 336.0,
           "moving_time": 4199.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18408869952"
+          ],
+          "count": 1,
+          "distance": 21931.0,
+          "elevation_gain": 303.0,
+          "moving_time": 3599.0
         }
       },
       "Walk": {
@@ -48809,7 +48827,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T16:27:52.658522+00:00",
+  "generated_at": "2026-05-07T16:50:24.267244+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
