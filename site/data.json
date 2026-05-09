@@ -27269,6 +27269,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18408869952",
       "year": 2026
+    },
+    {
+      "date": "2026-05-09",
+      "hour": 15,
+      "name": "Wtfh",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18433317805",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48357,6 +48366,15 @@
           "distance": 21931.0,
           "elevation_gain": 303.0,
           "moving_time": 3599.0
+        },
+        "2026-05-09": {
+          "activity_ids": [
+            "18433317805"
+          ],
+          "count": 1,
+          "distance": 49804.6,
+          "elevation_gain": 627.0,
+          "moving_time": 7210.0
         }
       },
       "Walk": {
@@ -48827,7 +48845,7 @@
       }
     }
   },
-  "generated_at": "2026-05-08T16:13:06.993227+00:00",
+  "generated_at": "2026-05-09T15:52:34.699935+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
