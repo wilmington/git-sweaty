@@ -39377,6 +39377,19 @@
     "year": 2026
   },
   {
+    "date": "2026-05-06",
+    "distance": 1631.9,
+    "elevation_gain": 51.0,
+    "id": "18458011355",
+    "moving_time": 1204.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T07:18:18Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
     "date": "2026-05-07",
     "distance": 21931.0,
     "elevation_gain": 303.0,
@@ -39400,6 +39413,19 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2026-05-09T15:31:19Z",
     "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 2011.4,
+    "elevation_gain": 57.0,
+    "id": "18458791710",
+    "moving_time": 1764.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-11T12:04:17Z",
+    "type": "Walk",
     "year": 2026
   }
 ]
