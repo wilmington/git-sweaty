@@ -27359,6 +27359,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18561765126",
       "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18634117504",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48949,6 +48958,15 @@
           "distance": 1762.7,
           "elevation_gain": 13.0,
           "moving_time": 1263.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18634117504"
+          ],
+          "count": 1,
+          "distance": 2751.8,
+          "elevation_gain": 27.0,
+          "moving_time": 2678.0
         }
       },
       "Workout": {
@@ -48991,7 +49009,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:08:01.846560+00:00",
+  "generated_at": "2026-05-24T16:01:04.020299+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
