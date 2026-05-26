@@ -39531,5 +39531,18 @@
     "start_date_local": "2026-05-22T11:26:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 5740.2,
+    "elevation_gain": 211.0,
+    "id": "18657700275",
+    "moving_time": 1785.0,
+    "name": "Zwift",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T19:14:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
