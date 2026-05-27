@@ -27377,6 +27377,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18657700275",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18666827121",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48985,6 +48994,15 @@
           "distance": 2751.8,
           "elevation_gain": 27.0,
           "moving_time": 2678.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18666827121"
+          ],
+          "count": 1,
+          "distance": 836.2,
+          "elevation_gain": 13.0,
+          "moving_time": 595.0
         }
       },
       "Workout": {
@@ -49027,7 +49045,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:55:41.026558+00:00",
+  "generated_at": "2026-05-27T17:57:28.458563+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
