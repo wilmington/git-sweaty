@@ -39570,5 +39570,31 @@
     "start_date_local": "2026-05-28T17:39:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 35583.9,
+    "elevation_gain": 1011.0,
+    "id": "18707997006",
+    "moving_time": 7485.0,
+    "name": "Morning E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-30T08:03:40Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 3007.7,
+    "elevation_gain": 102.0,
+    "id": "18709981337",
+    "moving_time": 2353.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-30T15:33:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
