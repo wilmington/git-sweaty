@@ -27431,6 +27431,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/18723994684",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 8,
+      "name": "Morning E-Bike Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18735539544",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48242,6 +48251,15 @@
           "distance": 69576.3,
           "elevation_gain": 1453.2,
           "moving_time": 13558.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18735539544"
+          ],
+          "count": 1,
+          "distance": 33907.4,
+          "elevation_gain": 892.0,
+          "moving_time": 6581.0
         }
       },
       "MountainBikeRide": {
@@ -49127,7 +49145,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:07:56.098632+00:00",
+  "generated_at": "2026-06-01T19:55:08.523796+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
