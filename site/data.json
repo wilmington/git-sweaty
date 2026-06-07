@@ -27476,6 +27476,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18805035554",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 16,
+      "name": "End",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18818376024",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48656,6 +48665,15 @@
           "distance": 27065.1,
           "elevation_gain": 557.0,
           "moving_time": 5409.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18818376024"
+          ],
+          "count": 1,
+          "distance": 26635.6,
+          "elevation_gain": 214.0,
+          "moving_time": 3611.0
         }
       },
       "Walk": {
@@ -49217,7 +49235,7 @@
       }
     }
   },
-  "generated_at": "2026-06-06T16:05:44.529240+00:00",
+  "generated_at": "2026-06-07T16:16:07.338224+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
