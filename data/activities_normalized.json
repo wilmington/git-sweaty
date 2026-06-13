@@ -39778,5 +39778,44 @@
     "start_date_local": "2026-06-12T12:16:56Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 6209.0,
+    "elevation_gain": 152.0,
+    "id": "18894979181",
+    "moving_time": 991.0,
+    "name": "Debacle.",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-13T08:02:05Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 3155.9,
+    "elevation_gain": 86.0,
+    "id": "18897136422",
+    "moving_time": 2713.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-13T11:50:07Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 35627.1,
+    "elevation_gain": 817.0,
+    "id": "18897970049",
+    "moving_time": 6382.0,
+    "name": "Afternoon E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-13T13:50:32Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
