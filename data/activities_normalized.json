@@ -39817,5 +39817,31 @@
     "start_date_local": "2026-06-13T13:50:32Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 41614.0,
+    "elevation_gain": 268.0,
+    "id": "18910747451",
+    "moving_time": 8145.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-14T10:55:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 1978.1,
+    "elevation_gain": 65.0,
+    "id": "18911335083",
+    "moving_time": 1878.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-14T14:47:51Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
