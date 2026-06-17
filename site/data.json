@@ -27584,6 +27584,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18911335083",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18937952771",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 11,
+      "name": "Lunch E-Bike Ride",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18952507863",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48414,6 +48432,15 @@
           "distance": 41836.1,
           "elevation_gain": 969.0,
           "moving_time": 7373.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18952507863"
+          ],
+          "count": 1,
+          "distance": 31243.2,
+          "elevation_gain": 652.0,
+          "moving_time": 6534.0
         }
       },
       "MountainBikeRide": {
@@ -49383,6 +49410,15 @@
           "distance": 1978.1,
           "elevation_gain": 65.0,
           "moving_time": 1878.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18937952771"
+          ],
+          "count": 1,
+          "distance": 1555.7,
+          "elevation_gain": 33.0,
+          "moving_time": 1417.0
         }
       },
       "Workout": {
@@ -49425,7 +49461,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:03:27.647990+00:00",
+  "generated_at": "2026-06-17T17:49:07.224177+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
