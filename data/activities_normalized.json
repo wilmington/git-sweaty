@@ -39895,5 +39895,18 @@
     "start_date_local": "2026-06-19T19:04:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 6844.7,
+    "elevation_gain": 408.0,
+    "id": "18991928490",
+    "moving_time": 3609.0,
+    "name": "Recsick",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-20T16:46:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

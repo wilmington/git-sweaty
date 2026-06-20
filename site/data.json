@@ -27620,6 +27620,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18981436686",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 16,
+      "name": "Recsick",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18991928490",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48873,6 +48882,15 @@
           "distance": 39514.5,
           "elevation_gain": 463.0,
           "moving_time": 5523.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "18991928490"
+          ],
+          "count": 1,
+          "distance": 6844.7,
+          "elevation_gain": 408.0,
+          "moving_time": 3609.0
         }
       },
       "Walk": {
@@ -49497,7 +49515,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T17:19:44.671003+00:00",
+  "generated_at": "2026-06-20T16:18:00.634565+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
