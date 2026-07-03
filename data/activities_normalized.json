@@ -40051,5 +40051,31 @@
     "start_date_local": "2026-07-01T17:56:54Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 2334.1,
+    "elevation_gain": 95.0,
+    "id": "19157982192",
+    "moving_time": 2100.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-03T12:12:30Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-03",
+    "distance": 28102.2,
+    "elevation_gain": 253.0,
+    "id": "19160094598",
+    "moving_time": 3658.0,
+    "name": "z",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-03T19:09:29Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
