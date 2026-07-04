@@ -40077,5 +40077,44 @@
     "start_date_local": "2026-07-03T19:09:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19169900741",
+    "moving_time": 2032.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-04T12:38:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 1418.3,
+    "elevation_gain": 58.0,
+    "id": "19170471868",
+    "moving_time": 1359.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-04T14:02:37Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 38360.4,
+    "elevation_gain": 230.0,
+    "id": "19171488238",
+    "moving_time": 4583.0,
+    "name": "z",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-04T17:24:48Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
