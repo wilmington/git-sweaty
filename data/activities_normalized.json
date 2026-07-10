@@ -40181,5 +40181,18 @@
     "start_date_local": "2026-07-08T17:29:55Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 47033.7,
+    "elevation_gain": 73.0,
+    "id": "19251197322",
+    "moving_time": 5476.0,
+    "name": "z",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-10T14:41:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
