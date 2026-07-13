@@ -40246,5 +40246,18 @@
     "start_date_local": "2026-07-12T15:29:07Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 1253.5,
+    "elevation_gain": 34.0,
+    "id": "19289289251",
+    "moving_time": 1101.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-13T12:48:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
