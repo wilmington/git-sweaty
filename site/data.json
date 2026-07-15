@@ -27890,6 +27890,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19304542000",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 19,
+      "name": "z",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19319703118",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49306,6 +49315,15 @@
           "distance": 31257.2,
           "elevation_gain": 1050.0,
           "moving_time": 6020.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19319703118"
+          ],
+          "count": 1,
+          "distance": 15020.9,
+          "elevation_gain": 322.0,
+          "moving_time": 3396.0
         }
       },
       "Walk": {
@@ -50021,7 +50039,7 @@
       }
     }
   },
-  "generated_at": "2026-07-14T16:14:18.998813+00:00",
+  "generated_at": "2026-07-15T16:21:39.011173+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
