@@ -40324,5 +40324,44 @@
     "start_date_local": "2026-07-17T19:16:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 24966.2,
+    "elevation_gain": 837.2,
+    "id": "19355677071",
+    "moving_time": 4914.0,
+    "name": "Recover-E",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T10:10:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 26760.0,
+    "elevation_gain": 832.2,
+    "id": "19356189404",
+    "moving_time": 5022.0,
+    "name": "20260717-220922",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-18T10:11:49Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 3036.8,
+    "elevation_gain": 35.0,
+    "id": "19357079687",
+    "moving_time": 2558.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-18T14:00:18Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
