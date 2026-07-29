@@ -40545,5 +40545,18 @@
     "start_date_local": "2026-07-28T17:04:29Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 26036.5,
+    "elevation_gain": 277.0,
+    "id": "19511386119",
+    "moving_time": 3963.0,
+    "name": "on call drudgery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-29T19:13:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
