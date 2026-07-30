@@ -40558,5 +40558,18 @@
     "start_date_local": "2026-07-29T19:13:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 17017.3,
+    "elevation_gain": 194.0,
+    "id": "19525247302",
+    "moving_time": 2816.0,
+    "name": "On call rec ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-30T18:59:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
