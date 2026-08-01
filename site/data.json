@@ -28097,6 +28097,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19539165311",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 13,
+      "name": "moar",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19549747666",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49639,6 +49648,15 @@
           "distance": 34248.3,
           "elevation_gain": 157.0,
           "moving_time": 4133.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19549747666"
+          ],
+          "count": 1,
+          "distance": 32431.3,
+          "elevation_gain": 243.0,
+          "moving_time": 3920.0
         }
       },
       "Walk": {
@@ -50427,7 +50445,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:45:16.389700+00:00",
+  "generated_at": "2026-08-01T15:59:59.780026+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

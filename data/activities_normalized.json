@@ -40584,5 +40584,18 @@
     "start_date_local": "2026-07-31T18:55:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 32431.3,
+    "elevation_gain": 243.0,
+    "id": "19549747666",
+    "moving_time": 3920.0,
+    "name": "moar",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-01T13:18:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
