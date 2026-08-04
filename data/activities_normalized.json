@@ -40636,5 +40636,18 @@
     "start_date_local": "2026-08-02T18:44:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 36033.4,
+    "elevation_gain": 263.0,
+    "id": "19593437327",
+    "moving_time": 4239.0,
+    "name": "moaroncawl",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T18:45:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
