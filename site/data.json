@@ -28187,6 +28187,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19648998883",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 13,
+      "name": "no scones!",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19662637914",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49167,6 +49176,15 @@
           "distance": 66885.2,
           "elevation_gain": 283.0,
           "moving_time": 12337.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19662637914"
+          ],
+          "count": 1,
+          "distance": 46378.3,
+          "elevation_gain": 264.0,
+          "moving_time": 8463.0
         }
       },
       "VirtualRide": {
@@ -50599,7 +50617,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:28:08.593713+00:00",
+  "generated_at": "2026-08-09T15:30:41.826185+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
