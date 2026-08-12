@@ -28214,6 +28214,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19691696796",
       "year": 2026
+    },
+    {
+      "date": "2026-08-12",
+      "hour": 10,
+      "name": "Scone was had.",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19705227898",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49203,6 +49212,15 @@
           "distance": 46378.3,
           "elevation_gain": 264.0,
           "moving_time": 8463.0
+        },
+        "2026-08-12": {
+          "activity_ids": [
+            "19705227898"
+          ],
+          "count": 1,
+          "distance": 37086.6,
+          "elevation_gain": 214.0,
+          "moving_time": 7025.0
         }
       },
       "VirtualRide": {
@@ -50653,7 +50671,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T16:00:07.077927+00:00",
+  "generated_at": "2026-08-12T15:58:28.963732+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
