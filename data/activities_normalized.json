@@ -40870,5 +40870,18 @@
     "start_date_local": "2026-08-19T18:39:08Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 1006.8,
+    "elevation_gain": 3.0,
+    "id": "19813913208",
+    "moving_time": 641.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-20T07:16:56Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
