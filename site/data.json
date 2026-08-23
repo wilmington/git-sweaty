@@ -28340,6 +28340,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19845094118",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19857854206",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50863,6 +50872,15 @@
           "distance": 2086.6,
           "elevation_gain": 64.0,
           "moving_time": 1932.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19857854206"
+          ],
+          "count": 1,
+          "distance": 2391.6,
+          "elevation_gain": 87.0,
+          "moving_time": 2255.0
         }
       },
       "Workout": {
@@ -50905,7 +50923,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:19:46.329958+00:00",
+  "generated_at": "2026-08-23T15:20:51.656470+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
