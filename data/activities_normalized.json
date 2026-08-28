@@ -41039,5 +41039,18 @@
     "start_date_local": "2026-08-26T12:03:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 28493.2,
+    "elevation_gain": 222.0,
+    "id": "19932114576",
+    "moving_time": 3637.0,
+    "name": "onkle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-28T17:50:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
