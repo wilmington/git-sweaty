@@ -41182,5 +41182,57 @@
     "start_date_local": "2026-09-02T19:44:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 7089.2,
+    "elevation_gain": 73.0,
+    "id": "20029654081",
+    "moving_time": 923.0,
+    "name": "1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T18:38:57Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 12612.3,
+    "elevation_gain": 66.0,
+    "id": "20029848783",
+    "moving_time": 1520.0,
+    "name": "2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T18:55:29Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 11437.4,
+    "elevation_gain": 135.0,
+    "id": "20030029154",
+    "moving_time": 1517.0,
+    "name": "3",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T19:21:48Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 7207.5,
+    "elevation_gain": 60.0,
+    "id": "20030146832",
+    "moving_time": 931.0,
+    "name": "4",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T19:48:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
