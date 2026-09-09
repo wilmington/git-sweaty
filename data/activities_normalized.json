@@ -41338,5 +41338,31 @@
     "start_date_local": "2026-09-08T18:19:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 1185.3,
+    "elevation_gain": 131.0,
+    "id": "20093937589",
+    "moving_time": 920.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-09T07:10:57Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 26076.0,
+    "elevation_gain": 471.0,
+    "id": "20099383883",
+    "moving_time": 4581.0,
+    "name": "rec",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-09T19:20:41Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
