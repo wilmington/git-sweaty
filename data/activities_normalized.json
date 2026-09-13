@@ -41416,5 +41416,31 @@
     "start_date_local": "2026-09-12T13:18:19Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 75417.0,
+    "elevation_gain": 403.0,
+    "id": "20151676311",
+    "moving_time": 16450.0,
+    "name": "Can always rely on a Wellington wind change.",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-13T08:57:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2102.9,
+    "elevation_gain": 48.0,
+    "id": "20152401293",
+    "moving_time": 2031.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-09-13T15:13:10Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
