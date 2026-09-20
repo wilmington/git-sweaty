@@ -28763,6 +28763,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20234671297",
       "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 10,
+      "name": "Training",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20248004306",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-20",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20248739562",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49835,6 +49853,15 @@
           "distance": 75417.0,
           "elevation_gain": 403.0,
           "moving_time": 16450.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20248004306"
+          ],
+          "count": 1,
+          "distance": 52454.8,
+          "elevation_gain": 238.0,
+          "moving_time": 10143.0
         }
       },
       "VirtualRide": {
@@ -51629,6 +51656,15 @@
           "distance": 2026.2,
           "elevation_gain": 56.0,
           "moving_time": 1929.0
+        },
+        "2026-09-20": {
+          "activity_ids": [
+            "20248739562"
+          ],
+          "count": 1,
+          "distance": 3414.9,
+          "elevation_gain": 202.0,
+          "moving_time": 3189.0
         }
       },
       "Workout": {
@@ -51671,7 +51707,7 @@
       }
     }
   },
-  "generated_at": "2026-09-19T17:48:11.824261+00:00",
+  "generated_at": "2026-09-20T17:59:01.569279+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
