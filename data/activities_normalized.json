@@ -41624,5 +41624,18 @@
     "start_date_local": "2026-09-23T19:29:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 39054.2,
+    "elevation_gain": 214.0,
+    "id": "20320733678",
+    "moving_time": 4598.0,
+    "name": "unkle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-25T19:05:03Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
