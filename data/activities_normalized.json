@@ -41767,5 +41767,31 @@
     "start_date_local": "2026-10-03T15:47:26Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 42653.0,
+    "elevation_gain": 1020.6,
+    "id": "20439309980",
+    "moving_time": 9594.0,
+    "name": "Sunday funday",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
+    "start_date_local": "2026-10-04T08:09:25Z",
+    "type": "EMountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 2062.7,
+    "elevation_gain": 53.0,
+    "id": "20441569642",
+    "moving_time": 1943.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-04T15:05:54Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
