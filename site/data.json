@@ -28943,6 +28943,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20456928308",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20467679395",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 18,
+      "name": "tues.",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20470334407",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20479017446",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50919,6 +50946,15 @@
           "distance": 37061.7,
           "elevation_gain": 373.0,
           "moving_time": 5498.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20470334407"
+          ],
+          "count": 1,
+          "distance": 45030.3,
+          "elevation_gain": 513.0,
+          "moving_time": 5620.0
         }
       },
       "Walk": {
@@ -51983,6 +52019,24 @@
           "distance": 1994.2,
           "elevation_gain": 49.0,
           "moving_time": 1715.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20467679395"
+          ],
+          "count": 1,
+          "distance": 2125.5,
+          "elevation_gain": 46.0,
+          "moving_time": 1736.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20479017446"
+          ],
+          "count": 1,
+          "distance": 1026.5,
+          "elevation_gain": 59.0,
+          "moving_time": 711.0
         }
       },
       "Workout": {
@@ -52025,7 +52079,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:50:19.491683+00:00",
+  "generated_at": "2026-10-06T19:59:33.293609+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
