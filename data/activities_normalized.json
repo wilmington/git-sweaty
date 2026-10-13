@@ -41923,5 +41923,18 @@
     "start_date_local": "2026-10-12T12:28:02Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 40022.9,
+    "elevation_gain": 118.0,
+    "id": "20563435092",
+    "moving_time": 4635.0,
+    "name": "phew.",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-13T17:55:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
