@@ -28999,6 +28999,15 @@
       "year": 2026
     },
     {
+      "date": "2026-10-10",
+      "hour": 7,
+      "name": "20261009-180457",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20595249645",
+      "year": 2026
+    },
+    {
       "date": "2026-10-11",
       "hour": 14,
       "name": "Afternoon Walk",
@@ -49967,12 +49976,13 @@
         },
         "2026-10-10": {
           "activity_ids": [
-            "20519801887"
+            "20519801887",
+            "20595249645"
           ],
-          "count": 1,
-          "distance": 46669.1,
-          "elevation_gain": 1097.5,
-          "moving_time": 9516.0
+          "count": 2,
+          "distance": 96307.1,
+          "elevation_gain": 2230.4,
+          "moving_time": 19170.0
         }
       },
       "EMountainBikeRide": {
@@ -52233,7 +52243,7 @@
       }
     }
   },
-  "generated_at": "2026-10-14T19:10:59.420457+00:00",
+  "generated_at": "2026-10-15T18:53:23.093773+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

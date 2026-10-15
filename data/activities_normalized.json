@@ -41886,6 +41886,19 @@
     "year": 2026
   },
   {
+    "date": "2026-10-10",
+    "distance": 49638.0,
+    "elevation_gain": 1132.9,
+    "id": "20595249645",
+    "moving_time": 9654.0,
+    "name": "20261009-180457",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-10T07:10:13Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
     "date": "2026-10-11",
     "distance": 2336.6,
     "elevation_gain": 46.0,
