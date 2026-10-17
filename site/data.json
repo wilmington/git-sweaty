@@ -29078,6 +29078,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20604710854",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20616316092",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52237,6 +52246,15 @@
           "distance": 2002.3,
           "elevation_gain": 125.0,
           "moving_time": 1845.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20616316092"
+          ],
+          "count": 1,
+          "distance": 2063.3,
+          "elevation_gain": 67.0,
+          "moving_time": 1862.0
         }
       },
       "Workout": {
@@ -52279,7 +52297,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T18:37:51.783670+00:00",
+  "generated_at": "2026-10-17T17:46:23.867682+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
