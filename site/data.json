@@ -29159,6 +29159,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20721129577",
       "year": 2026
+    },
+    {
+      "date": "2026-10-27",
+      "hour": 18,
+      "name": "moar onkle",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20746816586",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51244,6 +51253,15 @@
           "distance": 20104.6,
           "elevation_gain": 370.0,
           "moving_time": 3609.0
+        },
+        "2026-10-27": {
+          "activity_ids": [
+            "20746816586"
+          ],
+          "count": 1,
+          "distance": 42341.1,
+          "elevation_gain": 547.0,
+          "moving_time": 5855.0
         }
       },
       "Walk": {
@@ -52441,7 +52459,7 @@
       }
     }
   },
-  "generated_at": "2026-10-26T20:18:52.324832+00:00",
+  "generated_at": "2026-10-27T19:49:26.182355+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

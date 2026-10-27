@@ -42118,5 +42118,18 @@
     "start_date_local": "2026-10-25T19:34:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 42341.1,
+    "elevation_gain": 547.0,
+    "id": "20746816586",
+    "moving_time": 5855.0,
+    "name": "moar onkle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-27T18:28:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
