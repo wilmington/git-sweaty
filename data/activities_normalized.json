@@ -42170,5 +42170,31 @@
     "start_date_local": "2026-10-30T19:11:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 75212.8,
+    "elevation_gain": 471.0,
+    "id": "20797677068",
+    "moving_time": 9099.0,
+    "name": "longcall on call",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-31T11:25:31Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 2042.3,
+    "elevation_gain": 110.0,
+    "id": "20798610469",
+    "moving_time": 1826.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T15:58:58Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
