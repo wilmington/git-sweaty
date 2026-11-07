@@ -29258,6 +29258,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20866093289",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 8,
+      "name": "Training",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20887590033",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50181,6 +50190,15 @@
           "distance": 96307.1,
           "elevation_gain": 2230.4,
           "moving_time": 19170.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20887590033"
+          ],
+          "count": 1,
+          "distance": 43624.8,
+          "elevation_gain": 985.1,
+          "moving_time": 8292.0
         }
       },
       "EMountainBikeRide": {
@@ -52639,7 +52657,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:42:12.356409+00:00",
+  "generated_at": "2026-11-07T19:15:46.690592+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

@@ -42261,5 +42261,18 @@
     "start_date_local": "2026-11-05T19:04:36Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 43624.8,
+    "elevation_gain": 985.1,
+    "id": "20887590033",
+    "moving_time": 8292.0,
+    "name": "Training",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-11-07T08:55:45Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
