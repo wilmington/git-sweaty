@@ -42300,5 +42300,31 @@
     "start_date_local": "2026-11-09T19:17:25Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 25064.5,
+    "elevation_gain": 250.0,
+    "id": "20928847787",
+    "moving_time": 3671.0,
+    "name": "?",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T17:31:07Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20937814174",
+    "moving_time": 11.0,
+    "name": "Morning E-Mountain Bike Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-11T07:27:18Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
