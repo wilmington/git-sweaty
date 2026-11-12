@@ -29303,6 +29303,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20937814174",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 19,
+      "name": "Damn",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20956144604",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51496,6 +51505,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 11.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20956144604"
+          ],
+          "count": 1,
+          "distance": 14896.6,
+          "elevation_gain": 91.0,
+          "moving_time": 2070.0
         }
       },
       "Walk": {
@@ -52729,7 +52747,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:45:12.537207+00:00",
+  "generated_at": "2026-11-12T21:44:33.804482+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

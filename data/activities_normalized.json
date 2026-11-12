@@ -42326,5 +42326,18 @@
     "start_date_local": "2026-11-11T07:27:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-12",
+    "distance": 14896.6,
+    "elevation_gain": 91.0,
+    "id": "20956144604",
+    "moving_time": 2070.0,
+    "name": "Damn",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-12T19:21:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
