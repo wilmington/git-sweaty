@@ -42378,5 +42378,18 @@
     "start_date_local": "2026-11-13T18:33:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 43008.4,
+    "elevation_gain": 967.9,
+    "id": "20976659028",
+    "moving_time": 8282.0,
+    "name": "Matairangi",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-11-14T08:03:14Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]

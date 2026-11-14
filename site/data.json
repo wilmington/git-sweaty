@@ -29339,6 +29339,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20968175761",
       "year": 2026
+    },
+    {
+      "date": "2026-11-14",
+      "hour": 8,
+      "name": "Matairangi",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20976659028",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50271,6 +50280,15 @@
           "distance": 43624.8,
           "elevation_gain": 985.1,
           "moving_time": 8292.0
+        },
+        "2026-11-14": {
+          "activity_ids": [
+            "20976659028"
+          ],
+          "count": 1,
+          "distance": 43008.4,
+          "elevation_gain": 967.9,
+          "moving_time": 8282.0
         }
       },
       "EMountainBikeRide": {
@@ -52793,7 +52811,7 @@
       }
     }
   },
-  "generated_at": "2026-11-13T21:11:57.033537+00:00",
+  "generated_at": "2026-11-14T19:43:34.051588+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",
