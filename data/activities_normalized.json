@@ -42387,9 +42387,48 @@
     "moving_time": 8282.0,
     "name": "Matairangi",
     "raw_activity_type": "EBikeRide",
-    "raw_type": "EBikeRide",
+    "raw_type": "EMountainBikeRide",
     "start_date_local": "2026-11-14T08:03:14Z",
-    "type": "EBikeRide",
+    "type": "EMountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 2002.3,
+    "elevation_gain": 55.0,
+    "id": "20989753335",
+    "moving_time": 1632.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-15T10:22:20Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 6819.3,
+    "elevation_gain": 28.0,
+    "id": "20990209291",
+    "moving_time": 944.0,
+    "name": "Rec",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T11:39:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 30482.5,
+    "elevation_gain": 86.0,
+    "id": "20990739154",
+    "moving_time": 3647.0,
+    "name": "ccc",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-15T12:00:19Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]
