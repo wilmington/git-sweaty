@@ -42469,5 +42469,18 @@
     "start_date_local": "2026-11-18T07:13:22Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 16864.3,
+    "elevation_gain": 579.0,
+    "id": "21043173073",
+    "moving_time": 3822.0,
+    "name": "flail",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-19T18:25:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
