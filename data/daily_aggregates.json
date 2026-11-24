@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:56:07.720965+00:00",
+  "generated_at": "2026-11-24T02:00:20.750361+00:00",
   "years": {
     "2017": {
       "EBikeRide": {
@@ -23529,6 +23529,24 @@
           "distance": 3390.3,
           "elevation_gain": 49.0,
           "moving_time": 3705.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "21089780498"
+          ],
+          "count": 1,
+          "distance": 2036.7,
+          "elevation_gain": 72.0,
+          "moving_time": 1804.0
+        },
+        "2026-11-24": {
+          "activity_ids": [
+            "21101509447"
+          ],
+          "count": 1,
+          "distance": 2000.9,
+          "elevation_gain": 59.0,
+          "moving_time": 1638.0
         }
       },
       "Workout": {
