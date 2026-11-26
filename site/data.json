@@ -29501,6 +29501,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21103345335",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 17,
+      "name": "thursty work",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21127518841",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51786,6 +51795,15 @@
           "distance": 28569.9,
           "elevation_gain": 636.0,
           "moving_time": 5411.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21127518841"
+          ],
+          "count": 1,
+          "distance": 14023.1,
+          "elevation_gain": 329.0,
+          "moving_time": 2374.0
         }
       },
       "Walk": {
@@ -53101,7 +53119,7 @@
       }
     }
   },
-  "generated_at": "2026-11-25T23:28:35.837397+00:00",
+  "generated_at": "2026-11-26T23:29:37.283575+00:00",
   "other_bucket": "OtherSports",
   "repo": "wilmington/git-sweaty",
   "source": "strava",

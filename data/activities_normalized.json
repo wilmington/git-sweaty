@@ -42612,5 +42612,18 @@
     "start_date_local": "2026-11-24T17:38:08Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 14023.1,
+    "elevation_gain": 329.0,
+    "id": "21127518841",
+    "moving_time": 2374.0,
+    "name": "thursty work",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-26T17:21:08Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
