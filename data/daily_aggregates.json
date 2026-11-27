@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:29:37.248234+00:00",
+  "generated_at": "2026-11-27T23:14:36.775101+00:00",
   "years": {
     "2017": {
       "EBikeRide": {
@@ -20930,6 +20930,15 @@
           "distance": 43624.8,
           "elevation_gain": 985.1,
           "moving_time": 8292.0
+        },
+        "2026-11-28": {
+          "activity_ids": [
+            "21147130916"
+          ],
+          "count": 1,
+          "distance": 46956.9,
+          "elevation_gain": 1070.0,
+          "moving_time": 9025.0
         }
       },
       "EMountainBikeRide": {
@@ -22292,6 +22301,15 @@
           "distance": 14023.1,
           "elevation_gain": 329.0,
           "moving_time": 2374.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "21139803692"
+          ],
+          "count": 1,
+          "distance": 29066.7,
+          "elevation_gain": 252.0,
+          "moving_time": 3809.0
         }
       },
       "Walk": {
@@ -23565,6 +23583,15 @@
           "distance": 2000.9,
           "elevation_gain": 59.0,
           "moving_time": 1638.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "21138235836"
+          ],
+          "count": 1,
+          "distance": 2191.4,
+          "elevation_gain": 148.0,
+          "moving_time": 2186.0
         }
       },
       "Workout": {
